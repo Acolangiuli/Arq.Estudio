@@ -1,0 +1,18 @@
+/* NAVBAR */
+.gris{
+    background-color: rgb(160, 160, 159);
+    border-bottom: 3px solid black;
+}
+
+.navbar-collapse{
+    flex-grow: initial;
+}
+
+.navbar .navbar-nav .nav-link{
+    color: black;
+}
+
+.navbar .navbar-nav .nav-link:hover{
+    color: yellow;
+    background-color:rgb(35,31,32) ;
+}
